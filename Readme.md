@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Constantine Cher](https://up.htmlacademy.ru/javascript/19/user/118885).
-* Наставник: `Неизвестно`.
+* Наставник: `Белик Павел`.
 
 ---
 
